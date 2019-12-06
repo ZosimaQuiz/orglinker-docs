@@ -1,0 +1,3 @@
+/node_modules
+/config/cors.json
+/config/postgreSQL.json
